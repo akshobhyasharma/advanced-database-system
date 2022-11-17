@@ -1,0 +1,11 @@
+**** Read Me ****
+
+This repository represnts the project based on data given on police station case scenario in the Advanced Database System module.
+
+The project revolves around the construction of a data warehouse utilizing multiple data sources.
+
+All the sql files for procedures, triggers as well as ddl files can be found in this repository.
+
+Also included are the qsee files which contain the ERD diagrams for the datawarehouse.
+
+More details on the project can be found in the docs file.
